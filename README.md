@@ -1,2 +1,2 @@
 # plausibledistribution.github.io
-Just a website I made to kill time
+Just a website I made to kill time.
